@@ -80,7 +80,7 @@ Acesse toda a documentação do projeto na pasta [Docs](./Docs/). Lá você enco
             <a href="https://www.linkedin.com/in/roberta-boaventura-andrade/" target="_blank"><img width="34%" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
           </td>
           <td>
-            <a href="" target="_blank"><img width="30%" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" target="_blank"></a>
+            <a href="https://github.com/VanderSant" target="_blank"><img width="30%" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" target="_blank"></a>
             <a href="https://www.linkedin.com/in/vanderson-da-silva-dos-santos-8789b619a/" target="_blank"><img width="34%" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
           </td>
       </tr>
